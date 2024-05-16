@@ -18,8 +18,8 @@
   "owner": "Michael Faursby Ahlers",
   "published": false,
   "publishTime": null,
-  "modifiedDate": "2024-05-16T19:39:32.362Z",
-  "lastReloadTime": "2021-11-26T13:47:06.626Z",
+  "modifiedDate": "2024-05-14T05:52:17.429Z",
+  "lastReloadTime": "2022-09-08T11:31:50.676Z",
   "thumbnail": "",
   "_resourcetype": "app",
   "reloadSchedule": null,
@@ -27,8 +27,8 @@
   "withData": false,
   "importMode": 0,
   "shares": [],
-  "id": "74f14bea-91e0-4c04-a19c-b666ce9b7e69",
-  "name": "BigQuery Cloud Speed Test",
+  "id": "69a7723f-1f1c-475e-b9a9-263f4772ff8a",
+  "name": "Scratch Pad",
   "overwriteOnRestore": false,
   "QlikObjectRunInfo": null
 }
